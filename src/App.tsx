@@ -105,7 +105,7 @@ reset:reset
 
 
 
-   <div className="container">
+   {/* <div className="container"> */}
   <div className="row">
     <label htmlFor="">First namessss</label>
     <input type="text" className="form-control" placeholder="First name" aria-label="First name" />
